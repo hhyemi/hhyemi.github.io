@@ -1,7 +1,7 @@
 ---
 title: Post with Header Image
 tags: TeXt
-comment : true
+comments : true
 article_header:
   type: cover
   image:
