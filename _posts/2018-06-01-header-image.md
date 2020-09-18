@@ -1,7 +1,7 @@
 ---
 title: Post with Header Image
 tags: TeXt
-key: page-post
+key: page-2018-06-01-header-image
 article_header:
   type: cover
   image:
