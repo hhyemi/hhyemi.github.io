@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/angular.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/article-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/article-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-01-welcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-23-angular.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/svg/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/svg/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-23-angular.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-23-angular.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_includes\svg" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets" />
     </key>
@@ -66,7 +67,7 @@
       <workItem from="1600309100425" duration="8251000" />
       <workItem from="1600424880364" duration="718000" />
       <workItem from="1600438995896" duration="1185000" />
-      <workItem from="1600863447113" duration="2208000" />
+      <workItem from="1600863447113" duration="4410000" />
     </task>
     <servers />
   </component>
