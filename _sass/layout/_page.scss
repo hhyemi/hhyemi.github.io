@@ -163,3 +163,10 @@ html,
     padding-top: map-get($layout, header-height);
   }
 }
+
+code{
+  font-size:15px !important;
+}
+.post-message p{
+  font-family: 'Nanum Gothic', serif  !important;
+}
