@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-18-prototype.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" afterDir="false" />
     </list>
@@ -43,14 +44,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_includes\svg" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -81,7 +82,8 @@
       <workItem from="1602593950810" duration="89000" />
       <workItem from="1602594176705" duration="107000" />
       <workItem from="1602597312214" duration="6836000" />
-      <workItem from="1603002350007" duration="64000" />
+      <workItem from="1603002350007" duration="79000" />
+      <workItem from="1603014707893" duration="5834000" />
     </task>
     <servers />
   </component>

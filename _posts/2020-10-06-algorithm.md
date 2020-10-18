@@ -6,7 +6,7 @@ summary : 자주 쓰이는 문법들 정리하기 + 계속 추가하기
 aside:
   toc: true
 ---
-# :pencil2:  Coding Test 알아두면 좋은 문법! 정리 :thumbsup::sparkles:
+# :heavy_check_mark: Coding Test 알아두면 좋은 문법 정리 :pencil2::page_facing_up:
 자주 쓰이는 문법들 정리하기 + 계속 추가하기
 <br/>
 <br/>
