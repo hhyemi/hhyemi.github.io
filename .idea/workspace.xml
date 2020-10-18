@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/paginator.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/paginator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/snippets/prepend-path.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/snippets/prepend-path.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +80,8 @@
       <workItem from="1602593733408" duration="17000" />
       <workItem from="1602593950810" duration="89000" />
       <workItem from="1602594176705" duration="107000" />
-      <workItem from="1602597312214" duration="6754000" />
+      <workItem from="1602597312214" duration="6836000" />
+      <workItem from="1603002350007" duration="36000" />
     </task>
     <servers />
   </component>
