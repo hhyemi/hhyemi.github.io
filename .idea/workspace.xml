@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-10-18-prototype.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-09-27-0927.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-27-0927.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -83,7 +83,8 @@
       <workItem from="1602594176705" duration="107000" />
       <workItem from="1602597312214" duration="6836000" />
       <workItem from="1603002350007" duration="79000" />
-      <workItem from="1603014707893" duration="5834000" />
+      <workItem from="1603014707893" duration="6300000" />
+      <workItem from="1603022180591" duration="2711000" />
     </task>
     <servers />
   </component>
@@ -99,10 +100,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600255961522" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602593748247">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603021012476">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602593748247" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603021012476" />
     <state x="570" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600423967668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

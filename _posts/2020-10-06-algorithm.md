@@ -6,30 +6,37 @@ summary : 자주 쓰이는 문법들 정리하기 + 계속 추가하기
 aside:
   toc: true
 ---
-# :heavy_check_mark: Coding Test 알아두면 좋은 문법 정리 :pencil2::page_facing_up:
+# :heavy_check_mark: Coding Test Study Memo :pencil2::page_facing_up:
 자주 쓰이는 문법들 정리하기 + 계속 추가하기
 <br/>
 <br/>
 
-## int to String
+## 형변환
+### int to String
 ```javascript
 int i = 100;
 String s = Integer.toString(i);
 ```
 
-## String to int
+### char to String
+```javascript
+char c = 'A'
+String s = Character.toString(c);
+```
+
+### String to int
 ```javascript
 String s = "123";
 int i = Integer.parseInt(s);
 ```
 
-## String to double
+### String to double
 ```javascript
 String s = "123";
 double d = Double.parseDouble(s);
 ```
 
-## Array to List
+### Array to List
 ```javascript
 import java.util.Arrays;
 import java.util.List;
@@ -87,6 +94,36 @@ if (map.containsKey('key')) {
 ```
 - map.containsKey('key') : 키 값('key')이  있는 지 여부
 
+## HashSet
+```javascript
+HashSet<Integer> hs = new HashSet<>();
+for (int i : nums) {
+    if ( hs.contains(i)) {
+        hs.remove(i);
+        //hs.clear();//모든 값 제거
+    } else {
+        hs.add(i);
+    }
+}
+return hs.iterator().next();
+```
+- hs.add(i) : 값 추가
+- hs.remove(i) : 값 제거
+- hs.clear() : 모든 값 제거
+- hs.contains(i) : i 값이 있는 지 여부
+- hs.iterator().next() :  Iterator iter = hs.iterator(); 사용, 값 출력
+
+```javascript
+HashSet<Integer> set = new HashSet<Integer>(Arrays.asList(1,2,3));//HashSet생성
+
+System.out.println(set); //전체출력 [1,2,3]
+
+Iterator iter = set.iterator();	// Iterator 사용
+while(iter.hasNext()) {//값이 있으면 true 없으면 false
+    System.out.println(iter.next());
+}
+```
+
 ## 문자열 찾기
 ### indexOf
 ```javascript
@@ -97,6 +134,23 @@ text.indexOf("hello");
 - 값이 없을때 -1 반환
 - 값이 있을때 첫 index 반환
 
+## 문자열 붙이기
+String += 보다는 StringBuilder 와 StringBuffer 사용 <br/>
+String의 주소값이 stack에 쌓이고 클래스들은 Garbage Collector가 호출되기 전까지 heap에 지속적으로 쌓이게 된다. <br/>
+메모리 관리적인 측면에서는 비효울이다.
+### StringBuilder
+```javascript
+StringBuilder sb = new StringBuilder();
+stringBuilder.append("hello");
+String s = sb.toString();
+```
+### StringBuffer
+```javascript
+StringBuffer sf = new StringBuffer();
+stringBuilder.append("hello");
+String s = sf.toString();
+```
+StringBuilder는 synchronization이 적용되지 않는다.
 
 ## 문자열 자르기
 
@@ -143,6 +197,32 @@ Math.min(10, 20); // 결과 : 10
 - Math.max : 두 값 중 큰 숫자 반환
 - Math.min : 두 값 중 작은 숫자 반환
 
+## 대소문자 변환
+```javascript
+String s = "Hello"
+s.toLowerCase(); // 모두 소문자로
+s.toUpperCase(); // 모두 대문자로
+```
+
+## 정규표현식
+### 숫자와 영문 빼고 "" 처리
+```javascript
+  String s = s.replaceAll("[^A-Za-z0-9]", "");
+```
+
+## XOR 연산자
+배열에서 중복되는 숫자가 없는 값 return
+```javascript
+int res = 0;
+for(int num : nums) {
+    res ^= num;
+}
+return res;
+```
+<b>xor의 3 가지 속성</b> <br/>
+1) 교환 연산 (즉 a xor b = b xor a). <br/>
+2) xor 자체가 0이라는 것. a xor a = 0. <br/>
+3) 0 xor a = a. <br/>
 
 ## ListNode
 
