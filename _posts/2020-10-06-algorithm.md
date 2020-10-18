@@ -1,12 +1,12 @@
 ---
-title: Java - Code Test 정리
+title: Java - Coding Test 정리
 tags: algorithm java
 key: page-202010061836
 summary : 자주 쓰이는 문법들 정리하기 + 계속 추가하기
 aside:
   toc: true
 ---
-# :pencil2:  Code Test 알아두면 좋은 문법! 정리 :thumbsup::sparkles:
+# :pencil2:  Coding Test 알아두면 좋은 문법! 정리 :thumbsup::sparkles:
 자주 쓰이는 문법들 정리하기 + 계속 추가하기
 <br/>
 <br/>
