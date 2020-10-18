@@ -63,7 +63,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : https://dlgpal95.github.io
+  home    : "/"
   archive : /archive.html
   rss     : # "/feed.xml" (default)
 
