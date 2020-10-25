@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-25-10251606.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-10-25-10251650.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oracle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oracle1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oracle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oracle3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oracle4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oracle5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/oracleerror.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-27-0927.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-27-0927.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-18-prototype.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-18-prototype.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -44,14 +53,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_includes\svg" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -84,7 +93,8 @@
       <workItem from="1602597312214" duration="6836000" />
       <workItem from="1603002350007" duration="79000" />
       <workItem from="1603014707893" duration="6300000" />
-      <workItem from="1603022180591" duration="2711000" />
+      <workItem from="1603022180591" duration="2773000" />
+      <workItem from="1603609170987" duration="5375000" />
     </task>
     <servers />
   </component>

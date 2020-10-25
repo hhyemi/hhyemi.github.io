@@ -207,7 +207,7 @@ s.toUpperCase(); // 모두 대문자로
 ## 정규표현식
 ### 숫자와 영문 빼고 "" 처리
 ```javascript
-  String s = s.replaceAll("[^A-Za-z0-9]", "");
+String s = s.replaceAll("[^A-Za-z0-9]", "");
 ```
 
 ## XOR 연산자
