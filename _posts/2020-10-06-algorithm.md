@@ -209,6 +209,10 @@ s.toUpperCase(); // 모두 대문자로
 ```javascript
 String s = s.replaceAll("[^A-Za-z0-9]", "");
 ```
+### 왼쪽에 붙은 0 제거
+```javascript
+String s = s.replace(/(^0+)/, "");
+```
 
 ## XOR 연산자
 배열에서 중복되는 숫자가 없는 값 return
