@@ -48,11 +48,11 @@ foo();
 2.&ensp;전역코드로 진입하면 <b>전역 실행 컨텍스트가 생성</b>되고 실행 컨텍스트 스택에 쌓인다. <br/>
 3.&ensp;전역코드에서 함수 호출 시 <b>함수 실행 컨텍스트가 생성</b>되고 전역 컨텍스트 위에 쌓인다. <br/>
 4.&ensp;함수가 종료되면 <b>함수 실행 컨텍스트를 삭제</b>되며 직전에 실행 컨텍스트로 제어권이 넘어간다.<br/>
-5.&ensp;전역코드가 끝나면 <b>전역 컨텍스트가 스택에서 삭제</b>되고, 애플리케이션이 종료된다 <br/>
+5.&ensp;전역코드가 끝나면 <b>전역 컨텍스트가 스택에서 삭제</b>되고(클로저제외), 애플리케이션이 종료된다. <br/>
 
 ## 실행 컨텍스트의 3가지 객체
 
-실행컨텍스트는 물리적으로 객체의 형태를 가지며 3가지 프로퍼티를 소유한다.
+실행컨텍스트는 생성 시 물리적으로 객체의 형태를 가지며 3가지 프로퍼티를 소유한다.
 
 <img src="/assets/images/excute_structure.png" width="300" height="200"/>
 
@@ -90,8 +90,8 @@ Variable Object는 실행 컨텍스트의 프로퍼티이기 때문에 값을 �
 식별자 중에서 변수가 아닌 객체의 프로퍼티(물론 메소드도 포함된다)를 검색하는 메커니즘은 프로토타입 체인(Prototype Chain)이다. <br/>
 
 ### 3. this value
-this 프로퍼티에는 this 값이 할당된다.
-
+this 프로퍼티에는 this 값이 할당된다.<br/>
+함수 호출 패턴에 의해 결정되며, 아무런 값도 지정되어 있지 않으면 window를 값으로 가진다.
 <br/>
 
 참고자료 : [https://poiemaweb.com/js-execution-context#2-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-3%EA%B0%80%EC%A7%80-%EA%B0%9D%EC%B2%B4](https://poiemaweb.com/js-execution-context#2-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-3%EA%B0%80%EC%A7%80-%EA%B0%9D%EC%B2%B4)
