@@ -1,6 +1,6 @@
 ---
 title: JavaScript - 실행 컨텍스트(Execution Context)
-tags: javascript
+tags: javascript TIL
 key: page-202010191128
 summary : 자바스크립트의 핵심원리인 실행컨텍스트에 대해 알아보자
 ---
