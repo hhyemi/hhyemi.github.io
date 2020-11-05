@@ -92,7 +92,7 @@ Variable Object는 실행 컨텍스트의 프로퍼티이기 때문에 값을 �
 ### 3. this value
 this 프로퍼티에는 this 값이 할당된다.<br/>
 함수 호출 패턴에 의해 결정되며, 아무런 값도 지정되어 있지 않으면 window를 값으로 가진다.
-<br/>
+<br/><br/><br/>
 
 참고자료 : [https://poiemaweb.com/js-execution-context#2-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-3%EA%B0%80%EC%A7%80-%EA%B0%9D%EC%B2%B4](https://poiemaweb.com/js-execution-context#2-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-3%EA%B0%80%EC%A7%80-%EA%B0%9D%EC%B2%B4)
 
