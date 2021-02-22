@@ -1,6 +1,6 @@
 ---
 title: JavaScript - Prototype(프로토타입)
-tags: javascript TIL
+tags: JavaScript TIL
 key: page-202010181853
 summary : js prototype을 알아보자
 ---

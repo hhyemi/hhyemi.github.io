@@ -1,6 +1,6 @@
 ---
 title: Java - Coding Test 정리
-tags: algorithm java
+tags: Algorithm Java
 key: page-202010061836
 summary : 자주 쓰이는 문법들 정리하기 + 계속 추가하기
 aside:

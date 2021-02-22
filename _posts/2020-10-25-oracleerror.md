@@ -1,6 +1,6 @@
 ---
 title: Oracle - Error 정리 (ORA-)
-tags: oracle
+tags: Oracle
 key: page-202010251651
 summary : 자주 일어나는 Oracle Error를 정리해보자 + 계속 추가
 aside:
@@ -51,7 +51,7 @@ Spring + mybatis 환경에서 발생하는 경우가 있다. <br/>
 ```
 
 ```timeout="180"```을 적어 타임아우스이 길이를 설정해주면 해결된다. <br/>
-단위는 초(s)로 180은 3분이 된다. 
+단위는 초(s)로 180은 3분이 된다.
 
 
 <br/><br/><br/><br/>

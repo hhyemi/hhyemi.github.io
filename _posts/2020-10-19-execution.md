@@ -1,6 +1,6 @@
 ---
 title: JavaScript - Execution Context(실행 컨텍스트)
-tags: javascript TIL
+tags: JavaScript TIL
 key: page-202010191128
 summary : 자바스크립트의 핵심원리인 실행컨텍스트에 대해 알아보자
 ---
@@ -65,7 +65,7 @@ foo();
 - 변수<br/>
 - 매개변수(parameter)와 인수 정보(arguments)<br/>
 - 함수 선언(함수 표현식은 제외)<br/>
- 
+
 Variable Object는 실행 컨텍스트의 프로퍼티이기 때문에 값을 갖는데 이 값은 다른 객체를 가리킨다. <br/>
 
 #### 1.1 전역 컨텍스트 경우
