@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-02-22-async.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-27-09271111.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-09-27-09271111.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-06-10061148.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-06-10061148.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-06-10061408.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-06-10061408.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-06-10061604.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-06-10061604.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-06-algorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-07-10071007.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-07-10071007.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-13-10131148.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-13-10131148.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-18-prototype.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-18-prototype.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-19-execution.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-19-execution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-25-10251606.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-25-10251606.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-25-10251741.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-25-10251741.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-25-10251750.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-25-10251750.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-25-oracleerror.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-25-oracleerror.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-26-10261557.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-26-10261557.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-27-10271117.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-27-10271117.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-27-10271142.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-27-10271142.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-27-10271533.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-27-10271533.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-27-10272215.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-27-10272215.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-29-10291329.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-29-10291329.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-29-10291627.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-10-29-10291627.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-11-05-11051627.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-11-05-11051627.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-10-promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-10-promise.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-10-textcopy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-10-textcopy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-11-deferred.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-11-deferred.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-12-17-foreach.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-12-17-foreach.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-22-async.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-22-async.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +88,7 @@
       <workItem from="1603968808958" duration="602000" />
       <workItem from="1607994584059" duration="614000" />
       <workItem from="1613979400815" duration="714000" />
-      <workItem from="1613987299105" duration="3546000" />
+      <workItem from="1613987299105" duration="3698000" />
     </task>
     <servers />
   </component>
