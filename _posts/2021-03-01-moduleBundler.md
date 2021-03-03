@@ -1,7 +1,7 @@
 ---
 title: JavaScript - 모듈 번들러와 트랜스파일러
 tags: JavaScript TIL
-key: page-202103022053
+key: page-202103012053
 summary : 모듈 번들러(Module bundler) , 트랜스파일러(Transpiler)
 ---
 모듈이랑 모듈시스템의 정의는 [모듈시스템](https://dlgpal95.github.io/2021/02/26/module.html)을 참고하자
