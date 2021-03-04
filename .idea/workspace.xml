@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-02-bubbleSort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-03-SelectionSort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bubble-sort.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/selection-sort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-04-InsertionSort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/insertion-sort.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-02-moduleBundler.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-01-moduleBundler.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +44,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_includes\svg" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -101,7 +98,8 @@
       <workItem from="1614343550975" duration="154000" />
       <workItem from="1614679448992" duration="3256000" />
       <workItem from="1614688337091" duration="121000" />
-      <workItem from="1614765109689" duration="5384000" />
+      <workItem from="1614765109689" duration="5929000" />
+      <workItem from="1614856173368" duration="3740000" />
     </task>
     <servers />
   </component>
@@ -121,9 +119,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1613987813674" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614088019254">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614857381865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614088019254" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1614857381865" />
   </component>
 </project>
