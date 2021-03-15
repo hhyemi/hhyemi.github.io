@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-11-QuickSort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/quick-sort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-15-MergeSort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/merge-sort-concepts.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-equality.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-27-equality.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -44,14 +45,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_includes\svg" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -104,7 +106,11 @@
       <workItem from="1615271156318" duration="600000" />
       <workItem from="1615375194616" duration="2490000" />
       <workItem from="1615451838611" duration="4000" />
-      <workItem from="1615461085114" duration="3462000" />
+      <workItem from="1615461085114" duration="3537000" />
+      <workItem from="1615464686765" duration="19000" />
+      <workItem from="1615468890573" duration="599000" />
+      <workItem from="1615545525366" duration="297000" />
+      <workItem from="1615804660674" duration="3341000" />
     </task>
     <servers />
   </component>
