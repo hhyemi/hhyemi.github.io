@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-15-MergeSort.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/merge-sort-concepts.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-10-equality.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-27-equality.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-15-MergeSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-15-MergeSort.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +108,9 @@
       <workItem from="1615464686765" duration="19000" />
       <workItem from="1615468890573" duration="599000" />
       <workItem from="1615545525366" duration="297000" />
-      <workItem from="1615804660674" duration="3341000" />
+      <workItem from="1615804660674" duration="3492000" />
+      <workItem from="1615810470018" duration="11000" />
+      <workItem from="1615973332479" duration="255000" />
     </task>
     <servers />
   </component>

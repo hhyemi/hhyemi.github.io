@@ -61,4 +61,3 @@ const mergeSort = function (array) {
 참고자료 : [https://im-developer.tistory.com/134?category=846746](https://im-developer.tistory.com/134?category=846746) <br/>
 참고자료 : [https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html) <br/>
 <br/>
-<br/>
