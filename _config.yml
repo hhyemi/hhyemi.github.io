@@ -36,7 +36,7 @@ timezone: Asia/Seoul # see https://en.wikipedia.org/wiki/List_of_tz_database_tim
 author:
   type      : # "person" (default), "organization"
   name      : Hyemi
-  url       : https://dlgpal95.github.io
+  url       : https://hhyemi.github.io
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
