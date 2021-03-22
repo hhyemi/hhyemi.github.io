@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://dlgpal95.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://hhyemi.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : "" # does not include hostname
 title   : CODE:H
 description: > # this means to ignore newlines until "Language & timezone"
@@ -31,7 +31,7 @@ lang: en
 timezone: Asia/Seoul # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
-## => Author and Social
+## => Author and Socialsite.url
 ##############################
 author:
   type      : # "person" (default), "organization"
