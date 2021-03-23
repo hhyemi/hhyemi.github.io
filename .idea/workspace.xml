@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-23-alterclob.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-23-javaalert.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-23-textareabr.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-23-textareabr.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-23-textareabr.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +115,7 @@
       <workItem from="1616069232058" duration="2121000" />
       <workItem from="1616392124308" duration="1075000" />
       <workItem from="1616414972757" duration="982000" />
-      <workItem from="1616507304611" duration="2266000" />
+      <workItem from="1616507304611" duration="2717000" />
     </task>
     <servers />
   </component>

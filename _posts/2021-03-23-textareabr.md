@@ -1,6 +1,6 @@
 ---
-title: Html - textarea에서 줄바꿈처리하기
-tags: Html
+title: HTML - textarea에서 줄바꿈처리하기
+tags: HTML
 key: page-202103232315
 summary : textarea에서 처리해보자
 ---
@@ -16,6 +16,6 @@ textarea안에서 `<br/>`과 `\r` `\n` `\r\n`으로 줄바꿈 처리를 할 수 
 ```javascript
 &#10;
 ```
-&#10; 을 이용하면 줄바꿈 처리가 가능하다. 
+&#10; 을 이용하면 줄바꿈 처리가 가능하다.
 
 <br/><br/>
