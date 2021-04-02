@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-23-textareabr.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-23-textareabr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-02-cors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cors.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +44,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_includes\svg" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
-      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -115,7 +117,9 @@
       <workItem from="1616069232058" duration="2121000" />
       <workItem from="1616392124308" duration="1075000" />
       <workItem from="1616414972757" duration="982000" />
-      <workItem from="1616507304611" duration="2717000" />
+      <workItem from="1616507304611" duration="3060000" />
+      <workItem from="1617023360392" duration="580000" />
+      <workItem from="1617362375863" duration="2060000" />
     </task>
     <servers />
   </component>
