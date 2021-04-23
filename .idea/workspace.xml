@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-04-23-nextssr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/calnot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/elementnot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-04-23-nextssr.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-23-nextssr.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +120,8 @@
       <workItem from="1617023360392" duration="580000" />
       <workItem from="1617362375863" duration="2280000" />
       <workItem from="1619189375398" duration="45000" />
-      <workItem from="1619189800277" duration="3621000" />
+      <workItem from="1619189800277" duration="3944000" />
+      <workItem from="1619194062154" duration="29000" />
     </task>
     <servers />
   </component>
