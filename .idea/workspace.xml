@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77767b00-b2ce-462e-a5be-9c7714642cb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-05-04-ssrprops.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hydrate.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-04-23-nextssr.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-23-nextssr.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +44,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
+      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_includes\svg" />
       <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\_posts" />
-      <recent name="C:\Users\82108\IdeaProjects\dlgpal95.github.io\assets\images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -121,7 +122,8 @@
       <workItem from="1617362375863" duration="2280000" />
       <workItem from="1619189375398" duration="45000" />
       <workItem from="1619189800277" duration="3944000" />
-      <workItem from="1619194062154" duration="29000" />
+      <workItem from="1619194062154" duration="632000" />
+      <workItem from="1620137101494" duration="2287000" />
     </task>
     <servers />
   </component>
