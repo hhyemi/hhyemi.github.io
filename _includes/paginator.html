@@ -1,13 +1,13 @@
 {%- if paginator.total_pages > 1 -%}
-  <div class="pagination">
+  <div class="pagination" style="text-align: center;">
 
     {%- include snippets/get-locale-string.html key='STATISTICS' -%}
     {%- assign _locale_statistics = __return -%}
 
     {%- assign _post_count = site.posts | size -%}
     {%- assign _page_count = paginator.total_pages -%}
-    <p>{{ _locale_statistics | replace: '[POST_COUNT]', _post_count | replace: '[PAGE_COUNT]', _page_count }}</p>
-    <div class="pagination__menu" style="position: absolute;left: 49%;">
+    <p style="text-align: left">{{ _locale_statistics | replace: '[POST_COUNT]', _post_count | replace: '[PAGE_COUNT]', _page_count }}</p>
+    <div class="pagination__menu" style="display: inline-block;margin-top: 2rem;">
       <ul class="menu menu--nowrap">
         {%- assign _max_show = 5 -%}
         {%- assign _max_show_modulo_two = _max_show | modulo: 2 -%}
